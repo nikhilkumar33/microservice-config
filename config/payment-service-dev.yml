@@ -21,8 +21,6 @@ spring:
     sampler:
       probability: 1.0
 
-server:
-  port: 8082
 
 eureka:
   client:
